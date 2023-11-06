@@ -67328,7 +67328,7 @@ $S:424}
 A.t3.prototype={
 P(a){var s,r,q,p,o,n,m,l=null
 $.nB=A.cq(a,l,t.w).w.a
-s=A.dD("ECOSOC SESI",A.n8(l,l,B.ao,l,l,l,l,l,l,l,l,l,l,l,B.aT,l,l,!0,l,l,l,l,l,l,l,l),l)
+s=A.dD("- ECOSOC SESI -",A.n8(l,l,B.ao,l,l,l,l,l,l,l,l,l,l,l,B.aT,l,l,!0,l,l,l,l,l,l,l,l),l)
 s=A.agt(!0,A.cI(B.dF,A.DU(u.E),l,l,l,l,l,l),s)
 r=this.c
 q=A.BC(A.DU("https://cdn.icon-icons.com/icons2/2699/PNG/512/un_logo_icon_168358.png"),l,l)
